@@ -1,0 +1,14 @@
+interface:
+  display_name: 大师美学解码器
+  short_description: 拆解大师作品视觉DNA，转译为原创AI影像视觉圣经与生成提示词
+  default_prompt: Use $decode-visual-aesthetics to analyze these film or artwork references
+    and build an original visual DNA and production prompt system.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
