@@ -1,0 +1,4 @@
+interface:
+  display_name: "古画电影现实化导演"
+  short_description: "把中国古画转译为真实、克制、高级且可拍摄的东方电影摄影画面"
+  default_prompt: "Use $ancient-painting-cinematic-realizer to turn this ancient painting into a realistic cinematic scene and production-ready prompt."
