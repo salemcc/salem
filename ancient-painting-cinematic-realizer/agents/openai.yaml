@@ -1,4 +1,4 @@
 interface:
   display_name: "古画电影现实化导演"
-  short_description: "用真实中国演员与历史织物重建古画，并严格检查人体手脚"
-  default_prompt: "Use $ancient-painting-cinematic-realizer to rebuild this painting as a filmable scene with a real Chinese actor, historically plausible materials, and anatomically correct hands and feet."
+  short_description: "先解码古代文化语义，再以真人演员和正确人体重建古画"
+  default_prompt: "Use $ancient-painting-cinematic-realizer to decode this painting's cultural semantics before rebuilding it as a filmable scene with real Chinese actors and anatomically correct hands and feet."
