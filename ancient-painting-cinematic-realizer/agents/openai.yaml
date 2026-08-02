@@ -1,4 +1,4 @@
 interface:
   display_name: "古画电影现实化导演"
-  short_description: "严格保留姿势、风势、留白与情绪，把古画转译成真实电影画面"
-  default_prompt: "Use $ancient-painting-cinematic-realizer to recreate this painting as a realistic cinematic scene while preserving its pose, wind-driven fabric motion, negative space, mood, and emotion."
+  short_description: "校正传统人物比例并消解衣纹墨线，把古画转译成真实电影画面"
+  default_prompt: "Use $ancient-painting-cinematic-realizer to reconstruct this painting with the correct real-world pose and proportions, translating ink garment lines into natural fabric volume, folds, and light."
